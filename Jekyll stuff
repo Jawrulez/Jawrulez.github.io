@@ -1,0 +1,7 @@
+jekyll commands:
+
+jekyll serve --host $IP --port $PORT --watch
+
+stop server running: ctrl-c
+
+blog lingk: http://jawrulez_github_io-c9-jawrulez.c9.io/
